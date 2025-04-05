@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexnino8
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in DevOps and Automation
 - 🌱 I’m currently learning Linux
 - 📫 How to reach me alopeznino98@gmail.com
