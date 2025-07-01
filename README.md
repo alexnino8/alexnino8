@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in DevOps, GenAI and Automation
-- 🌱 I’m currently learning Linux and GenAI applications
+- 👀 I build projects with GenAI and Automation to fix operational bottlenecks
 - 📫 How to reach me alopeznino98@gmail.com
 
 
