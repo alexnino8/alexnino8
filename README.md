@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Alex
   
-- I build projects with GenAI and Automation to fix operational bottlenecks
+- I architect and build automated workflows to optimize operational efficiency.
   
 - How to reach me:
 - email: alopeznino98@gmail.com
-- linkedin : www.linkedin.com/in/alejandro-lopez-nino-518a20245
+- linkedin : www.linkedin.com/in/alex-nino
 
 
 
