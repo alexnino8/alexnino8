@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
   
-- I architect and build automated workflows to optimize operational efficiency.
+- I architect and build automated systems to optimize operational efficiency.
   
 - How to reach me:
 - email: alopeznino98@gmail.com
