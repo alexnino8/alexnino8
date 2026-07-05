@@ -1,11 +1,11 @@
 Hi, I’m Alex
   
-Backend developer in training | Python, Go, Linux
+Backend developer in training | Go, Linux
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/d5772cac-5844-42a9-ade7-75dfb40cd4cb/thumbnail" >
 </p>
 
-Currently: boot.dev backend path + Software Engineering degree
+Currently: boot.dev + Software Engineering degree
 
 Linkedin : www.linkedin.com/in/alex-nino
 
