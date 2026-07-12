@@ -1,5 +1,3 @@
-Hi, I’m Alex
-  
 # Alex López Niño
 
 Information Security Analyst at an AI SaaS company. Software Engineering student. Building backend things in Go and Python.
