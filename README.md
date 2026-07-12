@@ -8,8 +8,6 @@ My path: sales → operations → automation → security → engineering. The t
 
 **Chirpy** - A Twitter-style REST API in Go with PostgreSQL. JWT authentication, HTTP middleware, database migrations (Goose), type-safe queries (SQLC). Built through Boot.dev.
 
-**Linko** (in progress) - A Go project focused on observability. Graceful shutdown, structured config, signal handling.
-
 **Self-hosted infrastructure** - n8n, PostgreSQL, and NocoDB running on Docker on a Linux VPS. Multi-platform workflows integrating Notion, Airtable, Google Workspace, and Trello.
 
 ## What I work with
