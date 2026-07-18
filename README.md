@@ -14,10 +14,6 @@ My path: sales → operations → automation → security → engineering. The t
 
 Go, Python, PostgreSQL, Docker, Linux, Git, REST APIs, n8n
 
-## Currently
-
-Working through Boot.dev's backend devops path. Studying Software Engineering at Hybridge Education. 
-
 📫 alopeznino98@gmail.com · [LinkedIn](https://www.linkedin.com/in/alex-nino)
 
 <p align="left">
